@@ -1,9 +1,7 @@
-O Kloven Legacy é um projeto em grupo para entregar final do curso, é um jogo de aventura em que o player controla Aiden um mercenário
-espacial cuja missão é recuperar os artifactos que estão escondidos em certos pontos do planeta terra que se encontra fragmentado.
-Para ultrapassar os vários desafios e combates que o esperam, Aiden terá de recorrer a sua luva mágica que usa o poder de 5 elementos
-fogo, gelo, acido, pedra e eletricidade, e este elementos podem ser combinados para criarem certos efeitos. 
-O nosso grupo consiste em 2 artistas 3D e dois programadores e o jogo ainda não está completado.
-Os scripts mencionados neste bloco de notas não são da minha autoria mas sim do outro programador que está no grupo:
+Kloven Legacy is a group project which we have to finish by the end of this year, it is an adventure game in which the player controls Aiden a mercenary whose mission is to retrieve the artifacts that are hidden at certain points of a fragmented version of planet earth.
+To overcome the many challenges and fights that await him, Aiden will have to resort to his magic glove that uses the power of 5 elements fire, ice, acid, stone and electricity, and these elements can be combined to create certain effects.
+Our group consists of 2 3D artists and 2 programmers and the game is not yet complete.
+The scripts mentioned in this text file are not my own but they were made by the other programmer in the group:
 
 Plates.cs
 Stone.cs
