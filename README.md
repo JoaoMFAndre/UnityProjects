@@ -1,4 +1,4 @@
 # UnityProjects
-Source Code dos varios projectos e prototipos desenvolvidos em Unity ao longo do CTESP Produção Multimédia e Jogos Digitais.
-Alguns ainda estão em desenvolvimento, esses são os jogos que temos de fazer em grupos de 4 para entregar no final do 1º semestre do 2º do curso para avaliação final.
-Dentro de cada pasta está um ficheiro README com mais informações a cerca do projeto
+Source Code of the various projects and prototypes developed with Unity throughout CTESP Multimedia and Video Games.
+Some are still under development, those are the games we have to develop in groups of 4 to submit for evaluation at the end of the 1st semester of the 2nd year.
+Inside each folder is a README file with more information about the project.
