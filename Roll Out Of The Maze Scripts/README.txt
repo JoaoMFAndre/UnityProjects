@@ -1,4 +1,2 @@
-O Roll Out Of The Maze é um projeto que foi desenvolvido no final do 1º ano do curso, é um jogo cujo objectivo é escapar de um labirinto,
-o jogador controla uma bola e tem de apanhar moedas para abrir os vários portões que bloqueiam a saída enquanto se desvia dos inimigos que
-patrolham certos pontos do mapa.
-Todos os scripts foram feitos por mim e o jogo encontra-se acabado
+Roll Out Of The Maze is a project that was developed at the end of the first year of the course, in this game the player has to escape a maze, the player controls a ball and has to pick up coins to open the various gates that block the exit while dodging enemies that patrol certain points on the map.
+All the scripts were made by me and the game is finished.
